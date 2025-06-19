@@ -152,14 +152,17 @@ else:
 
 1. **Exemplo de execução com saída em binário:**
 
-   * Mostre o comando executado e o conteúdo do arquivo de saída gerado.
+   ![image](https://github.com/user-attachments/assets/99ecb9c7-2297-4fa5-999a-d4caa0da43d1)
+
 
 2. **Exemplo de execução com saída em hexadecimal:**
 
-   * Mostre o comando executado e o conteúdo do arquivo de saída gerado.
+   ![image](https://github.com/user-attachments/assets/a3bf25ec-2e6a-473f-bfc2-0d928598030f)
+
 
 ---
 
-## 6. Considerações finais
+## 6. Considerações finais e overleaf
 
 Este montador é uma ferramenta simples e eficiente para traduzir códigos assembly para binário ou hexadecimal. Para melhorar o uso, recomenda-se utilizar arquivos `.asm` bem formatados e seguir as instruções de execução à risca.
+link overleaf: https://www.overleaf.com/project/6841e749c41fe46ba3c89520
